@@ -142,6 +142,33 @@ p {
     padding: 3% 2%;
 }
 
+/* Call to Action */
+
+#cta {
+    background-color: #ff4c68;
+    text-align: center;
+    color: #fff;
+    padding: 7% 15%;
+}
+
+.cta-text {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+
+/* Footer Section */
+
+#footer {
+    padding: 7% 15%;
+    text-align: center;
+}
+
+.social-icon {
+    margin: 20px 10px;
+}
+
 /* Media Queries */
 
 @media (max-width: 1024px) {
